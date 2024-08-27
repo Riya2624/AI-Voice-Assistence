@@ -1,0 +1,5 @@
+transformers==4.31.0
+whisper==1.0
+edge-tts==1.1.0
+webrtcvad==2.0.10
+gtts==2.2.3
